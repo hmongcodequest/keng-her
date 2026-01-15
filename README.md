@@ -1,36 +1,96 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Keng Her - Creative Developer Portfolio
 
-## Getting Started
+🚀 A modern, immersive portfolio website built with Next.js 16, featuring scroll-driven animations, a futuristic dark theme, and responsive design.
 
-First, run the development server:
+![Next.js](https://img.shields.io/badge/Next.js-16.1.1-black?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=flat-square&logo=tailwind-css)
+
+## ✨ Features
+
+- **Scroll-Driven Animations** - 240-frame image sequence synced to scroll for immersive storytelling
+- **Skills Page** - Interactive skill bars with proficiency levels and certifications
+- **Experience Page** - Professional timeline with project highlights
+- **Resume Page** - Comprehensive CV with downloadable option
+- **Mobile Navigation** - Animated hamburger menu with slide-in drawer
+- **Language Toggle** - Prepared for EN/Lao internationalization
+- **Dark Theme** - Futuristic design with blue accent colors
+- **Responsive Design** - Optimized for all devices
+
+## 🛠️ Tech Stack
+
+| Category  | Technologies                      |
+| --------- | --------------------------------- |
+| Framework | Next.js 16 (App Router)           |
+| Language  | TypeScript                        |
+| Styling   | Tailwind CSS                      |
+| Animation | Framer Motion                     |
+| Fonts     | Orbitron, Rajdhani (Google Fonts) |
+
+## 🚀 Getting Started
 
 ```bash
+# Clone the repository
+git clone https://github.com/hmongcodequest/keng-her.git
+
+# Navigate to project
+cd keng-her/portfolio-app
+
+# Install dependencies
+npm install
+
+# Run development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view the portfolio.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📂 Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+portfolio-app/
+├── src/
+│   ├── app/              # Next.js App Router pages
+│   │   ├── skills/       # Skills page
+│   │   ├── experience/   # Experience page
+│   │   └── resume/       # Resume page
+│   ├── components/       # React components
+│   │   ├── Navbar.tsx    # Navigation with mobile menu
+│   │   ├── SkillsPage.tsx
+│   │   ├── ExperiencePage.tsx
+│   │   └── ResumePage.tsx
+│   └── data/             # Data files
+│       ├── skillsData.ts
+│       ├── experienceData.ts
+│       └── resumeData.ts
+├── messages/             # i18n translations (EN, Lao)
+└── public/images/        # Image assets
+```
 
-## Learn More
+## 📱 Pages
 
-To learn more about Next.js, take a look at the following resources:
+| Page       | Route         | Description                       |
+| ---------- | ------------- | --------------------------------- |
+| Home       | `/`           | Hero with scroll animation        |
+| Skills     | `/skills`     | Technical skills & certifications |
+| Experience | `/experience` | Work history timeline             |
+| Resume     | `/resume`     | Comprehensive CV                  |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎨 Design System
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Primary Color**: `#3B82F6` (Blue)
+- **Accent Color**: `#60A5FA` (Light Blue)
+- **Background**: `#1a1a1a` (Dark)
+- **Heading Font**: Orbitron
+- **Body Font**: Rajdhani
 
-## Deploy on Vercel
+## 📄 License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+MIT License - feel free to use this as inspiration for your own portfolio!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 👤 Author
+
+**Keng Her** - Creative Developer
+
+- GitHub: [@hmongcodequest](https://github.com/hmongcodequest)
