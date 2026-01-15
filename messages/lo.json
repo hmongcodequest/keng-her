@@ -1,0 +1,143 @@
+{
+  "common": {
+    "loading": "ກຳລັງໂຫຼດ...",
+    "error": "ເກີດຂໍ້ຜິດພາດ",
+    "backToPortfolio": "ກັບຄືນໜ້າຫຼັກ",
+    "getInTouch": "ຕິດຕໍ່ຂ້ອຍ",
+    "letsWorkTogether": "ມາຮ່ວມງານກັນເຖາະ",
+    "interestedMessage": "ສົນໃຈຮ່ວມມື ຫຼື ມີໂຄງການໃນໃຈບໍ? ຂ້ອຍຢາກຮູ້ຈັກທ່ານ.",
+    "downloadResume": "ດາວໂຫຼດ Resume"
+  },
+  "navigation": {
+    "skills": "ທັກສະ",
+    "experience": "ປະສົບການ",
+    "projects": "ໂຄງການ",
+    "resume": "ປະຫວັດຫຍໍ້",
+    "contact": "ຕິດຕໍ່",
+    "hireMe": "ຈ້າງຂ້ອຍ"
+  },
+  "hero": {
+    "headline": "ແກງ ເຮີ",
+    "subheadline": "ນັກພັດທະນາເວັບ",
+    "description": "ປ່ຽນແນວຄິດໃຫ້ເປັນປະສົບການເວັບທີ່ສົມບູນແບບ",
+    "cta": "ເບິ່ງໂຄງການ"
+  },
+  "resume": {
+    "cv": "ປະຫວັດຫຍໍ້",
+    "summary": "ນັກພັດທະນາ Frontend ທີ່ມີປະສົບການ 5+ ປີ ໃນການສ້າງປະສົບການເວັບທີ່ມີປະສິດທິພາບສູງ. ຊ່ຽວຊານ React, Next.js, ແລະ ຫ້ອງສະໝຸດອະນິເມຊັນໃໝ່ໆ. ມີຄວາມກະຕືລືລົ້ນໃນການແປງການອອກແບບທີ່ຊັບຊ້ອນໃຫ້ເປັນສ່ວນຕິດຕໍ່ຜູ້ໃຊ້ທີ່ສົມບູນແບບ.",
+    "careerJourney": "ເສັ້ນທາງອາຊີບ",
+    "workExperience": "ປະສົບການເຮັດວຽກ",
+    "technicalExpertise": "ຄວາມຊ່ຽວຊານດ້ານເຕັກນິກ",
+    "skillsAndProficiencies": "ທັກສະ ແລະ ຄວາມສາມາດ",
+    "academicBackground": "ພື້ນຖານການສຶກສາ",
+    "education": "ການສຶກສາ",
+    "recognition": "ການຮັບຮູ້",
+    "achievementsAndAwards": "ຜົນສຳເລັດ ແລະ ລາງວັນ",
+    "languages": "ພາສາ",
+    "interests": "ຄວາມສົນໃຈ",
+    "frontend": "FRONTEND",
+    "backend": "BACKEND",
+    "toolsAndPlatforms": "ເຄື່ອງມື ແລະ ແພລດຟອມ"
+  },
+  "experience": {
+    "seniorFrontendDeveloper": "ນັກພັດທະນາ Frontend ອາວຸໂສ",
+    "frontendDeveloper": "ນັກພັດທະນາ Frontend",
+    "juniorWebDeveloper": "ນັກພັດທະນາເວັບ Junior",
+    "techInnovations": "Tech Innovations Inc.",
+    "digitalAgency": "Digital Agency Co.",
+    "startupVentures": "StartUp Ventures",
+    "sanFrancisco": "ຊານຟານຊິດໂກ, CA",
+    "losAngeles": "ລອດແອງເຈີລິດ, CA",
+    "remote": "ທາງໄກ",
+    "present": "ປະຈຸບັນ",
+    "achievements": {
+      "led": "ນຳພາການອອກແບບສະຖາປັດຕະຍະກຳ frontend ສຳລັບແພລດຟອມ SaaS ທີ່ມີຜູ້ໃຊ້ 100K+",
+      "reduced": "ຫຼຸດເວລາໂຫຼດໜ້າ 40% ດ້ວຍ code splitting ແລະ lazy loading",
+      "mentored": "ເປັນທີ່ປຶກສາໃຫ້ທີມນັກພັດທະນາ junior 4 ຄົນ",
+      "implemented": "ນຳໃຊ້ CI/CD pipelines ຫຼຸດເວລາ deploy 60%",
+      "developed": "ພັດທະນາ 20+ ເວັບໄຊທ໌ responsive ສຳລັບລູກຄ້າອົງກອນ",
+      "created": "ສ້າງ component library ທີ່ໃຊ້ໃນ 15 ໂຄງການ",
+      "integrated": "ເຊື່ອມ animation ທີ່ຊັບຊ້ອນໂດຍໃຊ້ GSAP ແລະ Framer Motion",
+      "collaborated": "ຮ່ວມມືກັບທີມອອກແບບເພື່ອກຳນົດມາດຕະຖານ UI/UX",
+      "built": "ສ້າງ MVP ສຳລັບ 5 startups",
+      "implementedDesigns": "ນຳໃຊ້ການອອກແບບ responsive ຈາກ Figma mockups",
+      "maintained": "ບຳລຸງຮັກສາ ແລະ ປັບປຸງ codebase ເກົ່າ",
+      "participated": "ເຂົ້າຮ່ວມຂະບວນການພັດທະນາແບບ agile"
+    }
+  },
+  "education": {
+    "bsComputerScience": "ປະລິນຍາຕີ ວິທະຍາສາດຄອມພິວເຕີ",
+    "frontendCertification": "ໃບຢັ້ງຢືນການພັດທະນາ Frontend",
+    "universityOfCalifornia": "ມະຫາວິທະຍາໄລ California",
+    "meta": "Meta (Facebook)",
+    "berkeley": "Berkeley, CA",
+    "online": "ອອນລາຍ",
+    "highlights": {
+      "gpa": "ຄະແນນສະເລ່ຍ: 3.8/4.0",
+      "deansList": "Dean's List ທຸກພາກຮຽນ",
+      "capstone": "ໂຄງການ: ແພລດຟອມການສະແດງຂໍ້ມູນແບບ Interactive",
+      "advancedReact": "ຮູບແບບ React ຂັ້ນສູງ ແລະ hooks",
+      "performance": "ເຕັກນິກການປັບປຸງປະສິດທິພາບ",
+      "testing": "ຍຸດທະສາດການທົດສອບ ແລະ debugging"
+    }
+  },
+  "achievements": {
+    "bestWebApp": "ລາງວັນແອັບພລິເຄຊັນເວັບດີເດັ່ນ",
+    "openSource": "ຜູ້ປະກອບສ່ວນ Open Source",
+    "hackathonWinner": "ຜູ້ຊະນະ Hackathon",
+    "techCrunch": "TechCrunch Disrupt",
+    "reactCommunity": "ຊຸມຊົນ React",
+    "googleDev": "Google Developer Groups",
+    "recognizedUi": "ໄດ້ຮັບການຍົກຍ້ອງສຳລັບ UI/UX ທີ່ສ້າງສັນໃນໝວດ fintech",
+    "topContributor": "ຜູ້ປະກອບສ່ວນ Top 100 ຂອງ React ecosystem",
+    "firstPlace": "ອັນດັບ 1 ສຳລັບແອັບພລິເຄຊັນເວັບທີ່ເນັ້ນ accessibility"
+  },
+  "languagesSpoken": {
+    "english": "ພາສາອັງກິດ",
+    "hmong": "ພາສາມົ້ງ",
+    "spanish": "ພາສາແອສປາຍໂຍນ",
+    "native": "ພາສາແມ່",
+    "conversational": "ສົນທະນາໄດ້"
+  },
+  "interestsList": {
+    "openSource": "ການພັດທະນາ Open Source",
+    "uiux": "ການອອກແບບ UI/UX",
+    "creativeCoding": "Creative Coding",
+    "mentorship": "ການເປັນທີ່ປຶກສາດ້ານເຕັກໂນໂລຢີ"
+  },
+  "footer": {
+    "getInTouch": "ຕິດຕໍ່ຂ້ອຍ",
+    "letsBuild": "ມາສ້າງກັນ",
+    "readyForProject": "ພ້ອມສຳລັບໂຄງການຂອງທ່ານ",
+    "projectMessage": "ບໍ່ວ່າທ່ານມີໂຄງການໃນໃຈ ຫຼື ພຽງແຕ່ຕ້ອງການເຊື່ອມຕໍ່, ຂ້ອຍພ້ອມຮັບຟັງໂອກາດໃໝ່ສະເໝີ.",
+    "email": "ອີເມວ",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "creativeDevloper": "ນັກພັດທະນາເວັບ",
+    "allRightsReserved": "ສະຫງວນລິຂະສິດ.",
+    "craftedWith": "ສ້າງດ້ວຍ",
+    "builtWith": "ສ້າງດ້ວຍ ❤️ ແລະ ກາເຟຫຼາຍ ☕"
+  },
+  "specs": {
+    "techStack": "ເຕັກໂນໂລຢີ",
+    "engineeringSpecs": "ຂໍ້ກຳນົດດ້ານວິສະວະກຳ",
+    "frontend": "Frontend",
+    "language": "ພາສາ",
+    "styling": "ການຕົກແຕ່ງ",
+    "animation": "Animation",
+    "state": "State",
+    "backend": "Backend"
+  },
+  "features": {
+    "whatIDeliver": "ສິ່ງທີ່ຂ້ອຍສະໜອງ",
+    "coreCapabilities": "ຄວາມສາມາດຫຼັກ",
+    "pixelPerfect": "UI ທີ່ສົມບູນແບບ",
+    "pixelPerfectDesc": "ທຸກ component ຖືກສ້າງດ້ວຍຄວາມລະມັດລະວັງ, ຮັບປະກັນການອອກແບບແປງຈາກ Figma ເປັນ code ຢ່າງສົມບູນ.",
+    "performanceFirst": "ປະສິດທິພາບເປັນອັນດັບໜຶ່ງ",
+    "performanceFirstDesc": "ປັບປຸງສຳລັບ Core Web Vitals ດ້ວຍ lazy loading, code splitting, ແລະ ຍຸດທະສາດການ render ທີ່ມີປະສິດທິພາບ.",
+    "responsiveDesign": "ການອອກແບບ Responsive",
+    "responsiveDesignDesc": "ການຈັດວາງທີ່ປັບຕົວໄດ້ຢ່າງລາບລື່ນໃນທຸກອຸປະກອນ, ຈາກມືຖືໄປຈົນເຖິງ desktop ຂະໜາດໃຫຍ່.",
+    "cleanArchitecture": "ສະຖາປັດຕະຍະກຳທີ່ເປັນລະບຽບ",
+    "cleanArchitectureDesc": "Codebase ທີ່ສາມາດບຳລຸງຮັກສາໄດ້, ຂະຫຍາຍໄດ້ ດ້ວຍການແຍກໜ້າທີ່ຢ່າງຊັດເຈນ ແລະ ຮູບແບບ component ທີ່ໃຊ້ຊໍ້າໄດ້."
+  }
+}
